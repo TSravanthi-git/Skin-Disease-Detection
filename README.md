@@ -54,3 +54,5 @@ It should not be used as a substitute for professional medical diagnosis.
 
 B.Tech – Electronics & Communication Engineering  
 Minor in Computer Science Engineering
+## project presentation
+[View/Download SKIN DISEASE DETECTION USING PYTHON AND DEEP LEARNING1](./README.md)
